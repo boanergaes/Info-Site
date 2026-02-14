@@ -1,0 +1,24 @@
+{
+  "name": "info-site-express",
+  "version": "1.0.0",
+  "description": "A project for practicing backend basics with Node.js. Course given by The Odin Project.",
+  "main": "script.js",
+  "scripts": {
+    "dev": "node --watch src/script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boanergaes/Info-Site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/boanergaes/Info-Site/issues"
+  },
+  "homepage": "https://github.com/boanergaes/Info-Site#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
